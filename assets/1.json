@@ -1,0 +1,19 @@
+{
+  "name": "Decentralization",
+  "symbol": "DEC",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3iVUGpNGjip4QYFjH7pzMRDaySV2YybcWtMujENEeH8X",
+        "share": 100
+      }
+    ]
+  }
+}

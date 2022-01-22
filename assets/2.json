@@ -1,0 +1,19 @@
+{
+  "name": "Hybrid",
+  "symbol": "HBD",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3iVUGpNGjip4QYFjH7pzMRDaySV2YybcWtMujENEeH8X",
+        "share": 100
+      }
+    ]
+  }
+}
